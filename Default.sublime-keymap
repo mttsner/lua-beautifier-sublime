@@ -1,0 +1,6 @@
+[
+	{
+	"keys": ["shift+alt+f"], 
+	"command": "beautify_lua"
+	}
+]
